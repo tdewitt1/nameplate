@@ -1,0 +1,27 @@
+
+@import 'semantic';
+
+/* My Styles */
+h2 {
+font-family: 'Muli', sans-serif;
+}
+
+h3{
+font-family: 'Muli', sans-serif;
+}
+
+p {
+font-family: 'Playfair Display', serif;
+}
+
+a {
+font-family: 'Audiowide', cursive;
+color: red;
+}
+
+a :hover {
+color: azure;
+}
+body {
+background-image: url(../img/lil_fiber.png);
+}
